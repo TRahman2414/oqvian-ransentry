@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+dist/
+*.tsbuildinfo
+assets-dashboard-preview.png
+.env
+*.py[cod]
+data/*.sqlite3
+data/*.db
+demo_workspace/monitored_files/*
+demo_workspace/originals/*
+!demo_workspace/monitored_files/.ransentry-root
+!demo_workspace/originals/.keep

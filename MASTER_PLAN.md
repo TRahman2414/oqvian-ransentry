@@ -85,10 +85,6 @@ Required pages: Overview; File Activity; Integrity; Backup Health; Incidents; De
 7. **Scenarios and reset:** three reproducible scenarios; restore only owned fixtures and verify clean baseline.
 8. **Verification and showcase:** unit and end-to-end file watcher tests, run scripts, docs, responsive visual review, measured resource use where practical.
 
-## Agent plan and verified readiness
-
-Codex owns integration and safety. Antigravity is a candidate for UI review/implementation, OpenCode for isolated components/docs, and Kilo for focused tests/review. No agent is considered ready from installation alone: require an exact-session no-edit response, report actual model identity, assign non-overlapping files, and review all delegated work. Current bridge inventory has a healthy Antigravity session attached to OQVIAN VULNORBIT and a generic Cybersecurity OpenCode session; neither is a RANSENTRY-specific session. Kilo CLI is installed/configured, but no successful RANSENTRY task response has yet been verified. A fresh Antigravity session must attach the bridge before native delivery is trusted.
-
 ## Definition of done
 
 - Runs on localhost on an ordinary laptop, without Docker/GPU/cloud/paid APIs.
